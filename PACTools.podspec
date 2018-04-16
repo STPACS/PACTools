@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "PACTools"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "常用工具类"
   s.homepage     = "https://github.com/STPACS/PACTools"
   s.license      = "MIT"
